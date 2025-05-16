@@ -1,2 +1,3 @@
 # git-demo
-My new git repo
+My new git repo <br>
+Adding a new line
